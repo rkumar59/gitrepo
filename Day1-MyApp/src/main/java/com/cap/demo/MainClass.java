@@ -16,6 +16,8 @@ public class MainClass {
 	public static void greeting(){
 		
 	System.out.println("Hi Rajeev This is Your First GIT Application");
+	System.out.println("Hi Rajeev This is Your First GIT Application 2");
+	
 	}
 
 }
